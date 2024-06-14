@@ -509,7 +509,7 @@ export const DockPanelOverlay = GObject.registerClass(
       this.y = background.y;
       this.width = background.width;
       this.height = background.height;
-
+//
       let margin = 20;
 
       // left
